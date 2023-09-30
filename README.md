@@ -18,6 +18,7 @@ Submit the Word document that contains your code description and inference. You 
 Submit the word document that contains your code description and inference and  also include the link to github or cloab in ipynb format with shared option has any one can view. 
 
 **ANSWER**
+
 *Observation*:
 In the provided code, a dataset is loaded into a Pandas DataFrame from a CSV file.
 Two strategies are employed to handle missing values in the dataset:
@@ -30,10 +31,13 @@ Numerical columns from the DataFrame are selected for further analysis and clust
 
 Four different clustering algorithms are instantiated and applied to the scaled feature matrix (X_scaled):
 
-**1)K-Means
-2)Agglomerative Clustering
-3)DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-4)GMM (Gaussian Mixture Model)**
+**1)K-Means**
+
+**2)Agglomerative Clustering**
+
+**3)DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
+
+**4)GMM (Gaussian Mixture Model)**
 Three clustering performance metrics are computed for each algorithm:
 
 **1)Silhouette Score
