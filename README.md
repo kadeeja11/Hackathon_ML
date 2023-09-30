@@ -1,15 +1,17 @@
-#QUESTION#
-Unsupervised Clustering 
+*QUESTION*
+**Unsupervised Clustering**
 
-Dataset link
-https://docs.google.com/spreadsheets/d/16FmrsNDeCdxaGkHuuaCsXY8ySaNctY8v/edit?usp=sharing&ouid=111231193731952555201&rtpof=true&sd=true
+**Dataset link**: [Dataset Link](https://docs.google.com/spreadsheets/d/16FmrsNDeCdxaGkHuuaCsXY8ySaNctY8v/edit?usp=sharing&ouid=111231193731952555201&rtpof=true&sd=true)
 
-Submit the document by giving following inference
-1.Different clustering algorithms minimum 4 comparisons
- 2.Evaluation metrics -different metrics with ground truth and no ground truth
-3.0ptimal clusters
-4Visualisation
-5.Use evaluation metrics with no ground truth 
+Submit the document by giving the following:
+
+1. Different clustering algorithms (minimum 4 comparisons)
+2. Evaluation metrics (different metrics with ground truth and no ground truth)
+3. Optimal clusters
+4. Visualization
+5. Use evaluation metrics with no ground truth
+
+Submit the Word document that contains your code description and inference. You can also include the link to GitHub or Colab in .ipynb format with shared access for viewing.
 
 
 Submit the word document that contains your code description and inference and  also include the link to github or cloab in ipynb format with shared option has any one can view. 
