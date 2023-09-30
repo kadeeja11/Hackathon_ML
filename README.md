@@ -38,11 +38,14 @@ Four different clustering algorithms are instantiated and applied to the scaled 
 **3)DBSCAN (Density-Based Spatial Clustering of Applications with Noise)**
 
 **4)GMM (Gaussian Mixture Model)**
+
 Three clustering performance metrics are computed for each algorithm:
 
-**1)Silhouette Score
-2)Davies-Bouldin Score
-3)Calinski-Harabasz Score**
+**1)Silhouette Score**
+
+**2)Davies-Bouldin Score**
+
+**3)Calinski-Harabasz Score**
 
 *Inference:*
 Clustering algorithms are being applied to identify natural groupings or patterns in the data.
