@@ -1,4 +1,4 @@
-QUESTION
+#QUESTION
 Unsupervised Clustering 
 
 Dataset link
@@ -14,7 +14,7 @@ Submit the document by giving following inference
 
 Submit the word document that contains your code description and inference and  also include the link to github or cloab in ipynb format with shared option has any one can view. 
 
-ANSWER
+#ANSWER
 Observation:
 In the provided code, a dataset is loaded into a Pandas DataFrame from a CSV file.
 Two strategies are employed to handle missing values in the dataset:
